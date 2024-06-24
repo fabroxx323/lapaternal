@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header .navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.productos, .ofertas {
+    padding: 2em 0;
+}
+
+.productos h2, .ofertas h2 {
+    margin-bottom: 1.5em;
+}
+
+.card {
+    margin-bottom: 2em;
+}
+
+footer {
+    margin-top: 2em;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: #ddd;
+}
+
